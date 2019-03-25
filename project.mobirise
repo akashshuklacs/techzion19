@@ -1,0 +1,2725 @@
+{
+  "settings": {
+    "name": "Sparsh 2k18",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#25a88c",
+        "successColor": "#2969b0",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#b40906",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#b40906",
+        "#282828",
+        "#12eec0",
+        "#0c8b71",
+        "#1b6dc8",
+        "#13b141",
+        "#25a88c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.5",
+    "uniqCompNum": 92,
+    "versionPublish": "4.6.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Sparsh '18",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/back1-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "SPARSH '18<br>30th , 31st &amp; 1st",
+          "text": "Join us in what could be the last event to be hosted and you sure would not like to miss the penultimate melting pot of zeal &nbsp;, creativity and charishma lasting over 3 days .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features4-a\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
+            },
+            "H4": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "iconsBgColor": "#ffffff",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/back1-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "setting",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#slider-f",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "music",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#header5-i",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#header5-j",
+              "size": 0,
+              "color": "black",
+              "newWindow": false
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "<a href=\"index.html#slider-f\" class=\"text-white\">Technical</a>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<a href=\"index.html#header5-i\" class=\"text-white\">Cultural</a>",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "<a href=\"index.html#header5-j\" class=\"text-white\">Miscellaneous</a>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-a"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "10",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Computer Science And Engineering",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"techcse.html#header2-v\" data-toolbar=\"-mbrBtnMove\">Let's CS(Quiz)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"techcse.html#header2-w\" data-toolbar=\"-mbrBtnMove\">Code Camp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"techcse.html#header2-x\" data-toolbar=\"-mbrBtnMove\">DesignX</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"techcse.html#header2-y\" data-toolbar=\"-mbrBtnMove\">Blind Coding</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"techcse.html#header2-z\" data-toolbar=\"-mbrBtnMove\">Project Exhibition/\n<br>Technical Presentation&nbsp;</a> ",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/meback-852x480.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Mechanical &amp; Civil Engineering",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "       <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-18\" data-toolbar=\"-mbrBtnMove\">Project Exhibition/\n<br>Technical Presentation&nbsp;<br></a>  ",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/eceback-2000x1413.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Electronics &amp; Electrical Engineering",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"techecen.html#header2-10\" data-toolbar=\"-mbrBtnMove\">Project Exhibition/\n<br>Technical Presentation&nbsp;</a> ",
+                "overlayColor": "#000000"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-f",
+          "_styles": {
+            "H2": {
+              "font-size": "36px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "CULTURAL",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"cult.html#header2-19\" data-toolbar=\"-mbrBtnMove\">Singing</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"cult.html#header2-1a\" data-toolbar=\"-mbrBtnMove\">Dancing</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"cult.html#header2-1c\" data-toolbar=\"-mbrBtnMove\">Skit</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"cult.html#header2-1d\" data-toolbar=\"-mbrBtnMove\">Ramp Walk</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"cult.html#header2-1e\" data-toolbar=\"-mbrBtnMove\">Extra Talent</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-i"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "MISCELLANEOUS",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1f\" data-toolbar=\"-mbrBtnMove\">LAN Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1g\" data-toolbar=\"-mbrBtnMove\">Mobile Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1h\" data-toolbar=\"-mbrBtnMove\">Fastest Finger First</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1i\" data-toolbar=\"-mbrBtnMove\">A Quiz With No Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1j\" data-toolbar=\"-mbrBtnMove\">Dumb Charades</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1k\" data-toolbar=\"-mbrBtnMove\">Roadies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1l\" data-toolbar=\"-mbrBtnMove\">Treasure Hunt</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1p\" data-toolbar=\"-mbrBtnMove\">Selfie Contest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">Meme Making</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-2i\" data-toolbar=\"-mbrBtnMove\">Mock Parliament</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-29\" data-toolbar=\"-mbrBtnMove\">Debate</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-23\" data-toolbar=\"-mbrBtnMove\">Pictionary</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-25\" data-toolbar=\"-mbrBtnMove\">Paper Dance</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-28\" data-toolbar=\"-mbrBtnMove\">Common Quiz<br></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-j"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/back1-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-09.50.50-589x511.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-10.15.22-589x511.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-10.19.04-589x511.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Vaibhav Tripathi<br>Designer | Technical &nbsp;Convenor",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Rohan Raj Singh<br>Designer",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Ramashish Maurya<br>Designer",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/screamitlouder\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" href=\"http://www.instagram.com/trippyyv\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/rohansinghjadaun\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" href=\"http://www.instagram.com/rohan_rajsingh\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.facebook.com/2027maurya\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" href=\"http://www.instagram.com/2027maurya\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-m",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/back1-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/sparsh2k18/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-k"
+        }
+      ]
+    },
+    "techcse.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "CSE technical events",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/quiz-700x700.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "&lt;Let's CS /&gt;<br><br>",
+          "text": "Participate in the competitive quizzing session covering C,HTML,CSS,JavaScript and tech related questions.<br>60 questions.<br>60 minutes.<br><br>Co-Ordinators - Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/codecamp-300x300.jpg",
+              "link": "http://www.hackerrank.com",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "{CODE CAMP}",
+          "text": "Code your way to conquer the world.You can use any language to solve a series of problems in time bound scenario.<br>Before participating make sure to have an account on&nbsp;<a href=\"http://www.hackerrank.com\" target=\"_blank\">Hackerrank</a>.<br>C0-Ordinator-Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>Prabhat Pandey<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/designx-675x325.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "(DESIGN X)<br>",
+          "text": "Showcase your designing skills using tools of web design-HTML,CSS,JavaScript.<br>Co-Ordinators-Atul Singh<br>Ramashish Maurya<br>Preeti Kumari",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bcode-554x356.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "[BLIND CODING]",
+          "text": "Turn your Arjun mode ON and hit the right spot.<br>Code &nbsp;some simple problems in a time bound scenario while the screen is shut.Minimise your errors to advance yourself in the competition.<br>Co-Ordinators-Shivangi Gupta<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cseback1-2000x1250.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/exhibit-900x750.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Project Exhibiton/Technical Presentation",
+          "text": "Showcase your project or give a technical presentation on any topic of your choice related to CS.<br>Co-Ordinators- Rohan Raj Singh &nbsp; Vaibhav Tripathi",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z"
+        }
+      ]
+    },
+    "techceme.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "CE/ME technical events",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/meback-852x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/exhibit-900x750.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Project Exhibition/ Technical Presentation",
+          "text": "Showcase your project or give a technical presentation on any topic of your choice related to Civil / Mechanical Engineering..<br>Co-Ordinators-Vaibhav Tripathi &nbsp; &nbsp;Rohan Raj Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-18"
+        }
+      ]
+    },
+    "techecen.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "EC/EN technical events",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "46",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/eceback-2000x1413.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/exhibit-900x750.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Project Exhibition/Technical Presentation",
+          "text": "Showcase your project or give a technical presentation on any topic of your choice related to EC/EN.<br>Co-Ordinators- Vaibhav Tripathi &nbsp; &nbsp;Rohan Raj Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-10"
+        }
+      ]
+    },
+    "cult.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Cultural Events",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sing-750x422.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "SINGING",
+          "text": "SIng your heart out!<br>Participate in Solo , Duet or Group category.<br>Co-Ordinators-Praviksha Tomar<br>Priyanka Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-19",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-text": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dance-625x626.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "DANCING",
+          "text": "Show all the moves you got to win the battle.<br>Participate in Solo , Duet or group category.<br>Co-Ordinators-Suvesh Tiwari<br>Rakshita Mishra<br>Aman Gautam<br><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1a",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-text": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "SKIT",
+          "text": "Act it out . Register with your team.<br>Co-Ordinators-Arun Kumar<br>Bhawna Singh<br>Aaditya Rai<br>Praviksha Tomar",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1c",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-text": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/10-131858-430x630.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "RAMP WALK",
+          "text": "Let your walk do the talk.Get your partner with you!<br>Co-Ordinators-Anurag Mishra<br>Suvesh Tiwari<br>Preeti Kumari",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1d",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-text": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "49",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cult-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/budda-aman-1-e1424978365207-611x382.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "EXTRA TALENT",
+          "text": "There is no bound to talent . Showcase some Entertaining skills.It could be Rapping,Mimicry,Stand Up comedy,BeatBoxing or better yet come up with something of your own.<br>Co-Ordinators-Manas Satsangi<br>Suvesh Tiwari<br>Preeti Kumari",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1e",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-text": {
+              "color": "#f3c649"
+            }
+          }
+        }
+      ]
+    },
+    "misc.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Miscellaneous Events",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/lang-300x296.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "LAN GAMING",
+          "text": "Compete in networked gaming . | Counter Strike ( 4 team members) | Need for Speed -Most Wanted | . n00bs unite!<br>Co-Ordinators- Shishil Vishwakarma<br>Yash Bhardwaj",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1f",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/minim-1024x768.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "MOBILE GAMING",
+          "text": "Compete in Mini Militia . 3 team members only.<br>Co-Ordinators-Manas Satsangi<br>Anubhav Upadhyay<br>Bhawna Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1g",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "48",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fff-603x228.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "FASTEST FINGER FIRST",
+          "text": "Type fast and accurate to win this fierce but calculated event.<br><br>Co-Ordinators:- Vaibhav Tripathi<br>Ayush Sharma<br>Rohan Raj Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1h",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/best-funny-anti-jokes-426x284.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "A QUIZ WITH NO NAME",
+          "text": "Participate in this one of a kind fun quiz where your creativity , out of the box thinking and memory are rewarded along with your weird sense of humor . The more you accept anti-jokes , the better your chances of winning are .&nbsp;<br>As the contest is over,here is the flash game-<br>The impossible quiz<br>&nbsp;&nbsp;<br>C0-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dumbch-750x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "DUMB CHARADES",
+          "text": "Give clues through acting or suggesting words of a movie to your partner(s).<br>A team can have atmost 3 members.<br>Co-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh<br>Ayush Sharma",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1j",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/roadies-1200x399.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ROADIES",
+          "text": "Do you have what it takes to be a Roadie?Find out!<br>Co-Ordinators:- Ayush Sharma<br>Aaditya Rai<br>Suvesh Tiwari<br>Manas Satsangi<br>Priyanka Singh",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1k",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/treasure-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "TREASURE HUNT",
+          "text": "Discover your inner Sherlock . Search for the clues and reach the destination . Minimum 3 and Maximium 5 players.<br>Co-Ordinators-Vaibhav Tripathi &nbsp; &nbsp;Vijay Pathak",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1l",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/selfie-300x210.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "But first...Let me take a #selfie",
+          "text": "Error 404 : Description not needed.<br>Upload your selfie to our official Facebook page . Remember to only send the selfie as a message(don't post on the page wall.<br>Deadline is 31st march&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1p",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/memms-385x246.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "MEME MAKING",
+          "text": "<p>Make memes and conquer the world . Also prove Steve Wozniak wrong.Keep it CREATIVE,ORIGINAL and HUMOROUS.<br><a href=\"assets/files/Templates.docx\">Download</a> these templates. You can submit only one entry on either or both the templates on our facebook page (only through message,don't post on page wall).Deadline is 31st March.<br>PS: It's not maymay :p<br>Co-Ordinators- &nbsp; Vaibhav Tripathi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rohan Raj Singh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Varun Gupta</p><br><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1q",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          }
+        }
+      ]
+    },
+    "misc2.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "Miscellaneous Events2",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "10px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-2\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/menulogo-228x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "74"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/debate-people-620x270.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "DEBATE",
+          "text": "Topic for the debate-<br><br>Is Euthanasia Justified?(English)<br><br>Kya bharat &nbsp;mein cricket ka varchasvya anya khelon ke apeksha jyada hona uchit hai?(Hindi)<br><br>Co-Ordinators-Praviksha Tomar<br>Aaditya Rai<br>Prabhat Pandey",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          },
+          "_anchor": "header2-29"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/thanksgivinggratitudepictionary-1400x1012.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">PICTIONARY</span>",
+          "text": "A picture is worth a thousand words.It's like dumb charades with Pictures instead.Not so dumb now!<br>Only 2 members in a team.<br>Co-Ordinators-Vaibhav Tripathi<br>Nagma Shabbir",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "color": "#e25041"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          },
+          "_anchor": "header2-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/paper-dance-by-timoycholokoy-800x566.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "PAPER DANCE",
+          "text": "Dance on paper with your partner till your legs stay on paper.The paper folds in half in successive rounds.<br>Co-Ordinators-Vaibhav Tripathi<br>Shivangi Gupta<br><br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          },
+          "_anchor": "header2-25"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/images-1s-225x225.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "COMMON QUIZ",
+          "text": "Participate in the competitive Reasoning+Current Affairs+Aptitude test<br>CO-Ordinators-Rustam Ali<br>Mukul Kumar<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          },
+          "_anchor": "header2-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mock-parliament-400x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Mock Parliament",
+          "text": "Compete in the debating topics given on the spot to be covered in short.<br>Co-Ordinators-Praviksha Tomar<br>Aaditya Rai<br>Prabhat Pandey&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56",
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
