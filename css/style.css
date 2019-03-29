@@ -1,0 +1,115 @@
+#ourteam{
+  color:white;
+  margin: 0px;
+  padding:0px;
+  width:100%;
+  text-align: center;
+  justify-content: center;
+  font-size:50px;;
+  height: auto;
+}
+#leaders{
+  margin: 0px;
+  padding:0px;
+  /*background-color: #155dbd; */
+  width:100%;
+  color:white;
+  overflow: hidden;
+}
+#secretory{
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+  padding:0px;
+  overflow: hidden;
+  /* background-color:#8e7041; */
+  justify-content: center;
+  font-size: 25px;
+}
+#imgrow{
+  margin: 0px;
+  padding-top:3px;
+  /*background-color: #a1aaa1; */
+  overflow: hidden;
+  width:100%;
+  justify-content: center;
+  text-align: center;
+}
+#imgrowbottom{
+  margin: 0px;
+  padding-top:3px;
+   /*background-color: #a1aaa1; */
+  overflow: hidden;
+  width:100%;
+  justify-content: center;
+  text-align: center;
+}
+#imgrow2{
+  margin: 0px;
+  padding-top:3px;
+  /* background-color: #a1aaa1; */
+  overflow: hidden;
+  justify-content: center;
+  text-align: center;
+}
+#rowpage{
+  min-height:100vh;
+  /*height:980px;*/
+  margin:auto;
+  justify-content: center;
+  padding:0px;
+  object-fit: contain;
+  width:70%;
+  background-image: url('../assets/images/collage.jpg');
+  /*background-attachment: fixed;*/
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+#colj1{
+  height: 100vh;
+  margin: 0px;
+  padding:0px;
+  background-image: url('../assets/images/collage2.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+#colj2{
+  height:100vh;
+  margin: 0px;
+  padding:0px;
+  background-image: url('../assets/images/collage1.jpg');
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  position: relative;
+}
+#imgcolsec img{
+  border-radius: 50% 50%;
+  object-fit: cover;
+}
+#imgcolspon img{
+  border-radius: 50% 50%;
+  object-fit: contain;
+}
+#imgcolhead img{
+  border-radius: 50% 50%;
+  object-fit: cover;
+}
+#imgcol img{
+  border-radius: 50% 50%;
+  object-fit: cover;
+}
+#imgcol{
+  text-align: center;
+  color:white;
+  border-radius: 50% 50%;
+  object-fit: cover;
+  margin:15px;
+  justify-content: center;
+}
+#imgrow p{
+  text-align: center;
+}
+
+
